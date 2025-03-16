@@ -24,6 +24,13 @@
       <version>4.10.0</version>
     </dependency>
 
+    <!-- WebDriverManager для автоматичного керування браузерами -->
+    <dependency>
+      <groupId>io.github.bonigarcia</groupId>
+      <artifactId>webdrivermanager</artifactId>
+      <version>5.8.0</version>
+    </dependency>
+
     <!-- TestNG -->
     <dependency>
       <groupId>org.testng</groupId>
